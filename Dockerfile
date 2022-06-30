@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "your build image! integrate test"]
+CMD ["echo", "your build image! integrate everything"]
